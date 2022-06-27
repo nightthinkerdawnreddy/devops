@@ -1,0 +1,2 @@
+this is file three from the folder named test in the pattern of the searching
+of the parallel working with the repositories
